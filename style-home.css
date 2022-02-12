@@ -27,7 +27,6 @@ nav a {
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
-
 }
 
 nav a:hover {
@@ -58,7 +57,6 @@ nav a:hover {
 	padding: 30px;
 }
 
-
 .principal p {
     text-align: center;
     padding: 15px;
@@ -80,8 +78,7 @@ em strong {
 }
 
 em strong:hover {
-    font-size: 28px;
-   
+    font-size: 22px;
 }
 
 .beneficios {
@@ -95,7 +92,6 @@ em strong:hover {
 }
 
 .titulo-centralizado1 {
-    
     font-size: 40px;
     font-weight: bold;
     margin: 20px 0;
@@ -107,7 +103,7 @@ em strong:hover {
 	width: 20%;
 	margin-right: 15%;
     list-style-type: disc;
-    font-size: 30px;
+    font-size: 25px;
 
 }
 .beneficios li {
@@ -115,7 +111,6 @@ em strong:hover {
 }
 
 .beneficios li:hover {
-    font-size: 28px;
     color: #C78C19;;
 }
 
@@ -137,3 +132,4 @@ footer {
     font-size: 13px;
     margin: 20px 0 0;
 }
+
